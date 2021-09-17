@@ -1,6 +1,6 @@
 ## tbbbooklet
 
-Made with VueJS, to organize google map locations and view them in mini map.
+Made with Laravel, to organize google map locations and view them in mini map.
 
 ## Features:
 - Ability to upload/manage KML files to server
